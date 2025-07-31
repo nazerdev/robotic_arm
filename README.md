@@ -12,3 +12,4 @@ prototipo de mano robotica
 componentes
 -motores mg996r
 -sensores flex
+-impresion 3d
